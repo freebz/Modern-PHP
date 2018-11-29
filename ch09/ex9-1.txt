@@ -1,0 +1,14 @@
+예제 9-1 예제 디렉터리 구조
+
+/
+    home/
+        deploy/
+	    apps/
+	        my_app/
+		    current/
+		    releases/
+		        release1/
+			release2/
+			release3/
+			release4/
+			release5/
